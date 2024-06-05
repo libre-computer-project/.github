@@ -6,7 +6,8 @@
 
 ## Design
 
-* [Design Philosophy](design/philosophy.md)
+* [Philosophy](design/philosophy.md)
+* [Software Stack](design/stack.md)
 
 ## Products
 
