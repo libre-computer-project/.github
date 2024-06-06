@@ -11,9 +11,9 @@
 
 ## Products
 
-* [Product Overviews](product/overview.md)
-* [Product Selector](https://libre.computer/products/)
-* [Product Resources](https://hub.libre.computer/t/libre-computer-boards-overview-and-resources/2847)
+* [Overviews](product/overview.md)
+* [Feature Selector](https://libre.computer/products/)
+* [Resources and Guides](https://hub.libre.computer/t/libre-computer-boards-overview-and-resources/2847)
 
 ## Getting Started
 

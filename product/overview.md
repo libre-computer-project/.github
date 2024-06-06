@@ -2,10 +2,10 @@
 
 # Overview
 
-* [Platform Naming Conventions](https://hub.libre.computer/t/libre-computer-board-naming-scheme-and-conventions/100)
-* [Platform Feature Matcher](https://libre.computer/products/)
-* [Platform Differences and Optimal Applications](https://hub.libre.computer/t/libre-computer-board-model-differences-and-optimal-application/2864)
-* [Platform Resources](https://hub.libre.computer/t/libre-computer-boards-overview-and-resources/2847)
+* [Naming Conventions](https://hub.libre.computer/t/libre-computer-board-naming-scheme-and-conventions/100)
+* [Feature Selector](https://libre.computer/products/)
+* [Model Differences and Optimal Applications](https://hub.libre.computer/t/libre-computer-board-model-differences-and-optimal-application/2864)
+* [Resources and Guides](https://hub.libre.computer/t/libre-computer-boards-overview-and-resources/2847)
 
 # List
 
