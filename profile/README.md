@@ -1,7 +1,3 @@
-## Purpose
-
-* [Website](https://libre.computer/)
-
 ## Design
 
 * [Philosophy](design/philosophy.md)
