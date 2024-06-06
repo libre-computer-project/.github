@@ -12,7 +12,7 @@
 ## High Level Booting
 
 * Firmware initializes board subsystems.
-* Firmware loads boot customization environment configuration `boot.ini`.
+* Firmware loads [boot customization environment configuration](https://hub.libre.computer/t/how-to-customize-boot-logo-and-silence-the-logs-for-commercial-productization/2706) `boot.ini`.
 * Firmware scans for bootable media based on environment configuration.
 * Firmware loads scripts, override device-trees, and/or UEFI applications into memory and runs them.
 * Firmware provides device-tree or override device-tree to UEFI application.
