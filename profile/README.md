@@ -16,6 +16,8 @@
 ## Getting Started
 
 * [Getting Started](https://hub.libre.computer/t/libre-computer-start-here-guide/2422)
+* [GPIO Mappings](https://hub.libre.computer/t/gpio-pinout-header-maps-and-wiring-tool-for-libre-computer-boards/28)
+* [Pinmux Compatibility](https://hub.libre.computer/t/libre-computer-cc-boards-gpio-pinmux-compatibility-matrix/2855)
 
 ## Support
 
