@@ -1,5 +1,3 @@
-# Libre Computer Project
-
 ## Purpose
 
 * [Website](https://libre.computer/)
