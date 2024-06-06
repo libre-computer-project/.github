@@ -13,7 +13,7 @@
 
 * Firmware initializes board subsystems.
 * Firmware loads [boot customization environment configuration](https://hub.libre.computer/t/how-to-customize-boot-logo-and-silence-the-logs-for-commercial-productization/2706) `boot.ini`.
-* Firmware scans for bootable media based on environment configuration.
+* Firmware scans for bootable media [based on environment configuration](https://hub.libre.computer/t/how-to-change-boot-order-on-libre-computer-boards/4057).
 * Firmware loads scripts, override device-trees, and/or UEFI applications into memory and runs them.
 * Firmware provides device-tree or override device-tree to UEFI application.
 * UEFI application is typically GRUB, systemd-boot, or Linux.
