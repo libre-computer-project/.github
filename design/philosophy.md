@@ -16,3 +16,13 @@
   * [u-boot](https://www.denx.de/project/u-boot/)
   * [Linux](https://kernel.org/)
   * [Mesa](https://www.mesa3d.org/)
+* Standard Distro Support
+
+## Platform
+
+* Libre Computer Infrastructure
+  * Repositories
+    * Kernel
+    * Userspace Tooling
+  * Continuous Testing and Deployment (CI/CD)
+    * Customer Application
