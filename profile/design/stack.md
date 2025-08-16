@@ -1,5 +1,7 @@
 # Libre Computer Design Stack
 
+![Libre Computer Stack](stack.png)
+
 ## Low Level Booting
 
 * Each platform boots from an onboard ROM which is built into the SoC.
