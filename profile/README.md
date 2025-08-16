@@ -1,3 +1,5 @@
+![Libre Computer Customer Design Scope](scope.png)
+
 ## Design
 
 * [Philosophy](design/philosophy.md)
