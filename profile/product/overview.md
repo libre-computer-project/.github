@@ -1,5 +1,7 @@
 # Libre Computer Products
 
+![Libre Computer Product Model Name Convention](convention.png)
+
 # Overview
 
 * [Naming Conventions](https://hub.libre.computer/t/libre-computer-board-naming-scheme-and-conventions/100)
